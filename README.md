@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-I'm now a ALX Student, this is my second repository as a full-stack engineer
+This project is about shell basics tasks in ALX 
